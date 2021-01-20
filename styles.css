@@ -1,0 +1,27 @@
+body {
+    background-color: #7064b3;
+}
+
+img {
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image {
+    padding: 15px;
+    border: solid 10px #3b1187;
+    margin: 5px;
+}
+
+.image:hover {
+   opacity: 0.75;
+   border: solid 10px #210852;
+}
+
+.words {
+    font-family: 'Prata', serif;
+}
